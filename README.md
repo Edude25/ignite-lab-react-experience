@@ -1,11 +1,11 @@
-<!--<p align="center">
+<p align="center">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
 </p>
 
 # 💻 Plataforma Ignite Lab
 
-Projeto feito na semana do Ignite Lab da @rocketseat. O projeto tinha que criar um página home onde o usuário cadastra o email e vai direto para a tela de Eventos.
+Projeto feito durante o evento da @rocketseat, com intuito de ter uma página home, aonde o usuário pode se increver, e essa inscrição se conecte com o banco de dados. E depois de se inscrever o usuário deve ser levado até a página do evento
 Foram utilizados: ReactJS, Tailwind, Graphql, Apollo, TypeScript, Deploy Vercel
 
 - <a href="https://plataform-ignite-lab.vercel.app/" target="_blank">Deploy (Vercel)</a>
@@ -14,24 +14,10 @@ Foram utilizados: ReactJS, Tailwind, Graphql, Apollo, TypeScript, Deploy Vercel
 - [Desafios](#desafios)
 - [Previews](#previews)
 
-# 🚀 Tecnologias
+# 🚀 Tecnologias Usadas
 
 - [ReactJS](https://reactjs.org/)
 - [TypeScript](https://www.typescriptlang.org/)
 - [Tailwind](https://tailwindcss.com/)
 - [Graphql](https://graphql.org/)
 - [Apollo](https://www.apollo.io/)
-
-# 📑 Desafios
-
-- Responsividade no projeto. ✔️
-- Menu dropdown na header para dispositivos mobiles. ✔️
-
-# Previews
-
-  <p align="center">
-    <figure>
-      <img src="src/assets/github-preview.png" width="100%">
-    </figure>
-  </p>--> 
-
